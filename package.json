@@ -4,7 +4,7 @@
   "description": "This repository contains all the configuration files to deploy the IDP API onto AWS Lambda and expose them via AWS API Gateway",
   "dependencies": {
     "email-validator": "^2.0.4",
-    "jquery": "^3.4.0",
+    "jquery": "^3.5.0",
     "requestretry": "^4.0.0",
     "serverless": "^1.42.3",
     "serverless-aws-documentation": "^1.1.0",
